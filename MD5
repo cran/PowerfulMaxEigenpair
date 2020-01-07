@@ -1,14 +1,14 @@
-3e64d55cd96bd4a162aea1856f4938fa *DESCRIPTION
+0d6b1a93e55c19e1fb49e9b3bdefc219 *DESCRIPTION
 dcc0a4fc6f228c40cecc28d3def9f4d4 *LICENSE
-268f318092921f8861fea9a44b4f458d *NAMESPACE
+d8500a79bc26e71048d48da974f04056 *NAMESPACE
 a2bc2f3be2a6e2b467e5187fcf9d23da *R/PowerfulMaxEigenpair.R
 87fb1cf9acaf50d299ace499ce19c452 *R/powerful.maxeig.tri.R
 29b6a31bcf029bd87e3ec3c8f65c3565 *R/powerful.seceig.tri.R
 bb905c9154fa5188e3c0535b73e17900 *R/thomas.tri.sol.R
 db32e789d16b1f286c22a4d3548b0421 *R/tridiag.R
 30264d11ecc50a189a841791b67140f3 *README.md
-96b5528c2754cd27afb0ecc4945a63ff *build/vignette.rds
-beb718ed47f4600f7456b423c3f1e38c *inst/doc/Powerful_MaxEigenpair.R
+48a0b5aba7fc9bc20c61eb80a59a2aa0 *build/vignette.rds
+78c0ec0a3c74216256e4ae420817fde5 *inst/doc/Powerful_MaxEigenpair.R
 6e6e945d9f2744c87df73d4dbf7df310 *inst/doc/Powerful_MaxEigenpair.Rmd
 314435981d700dd3603c18081a36e641 *inst/doc/Powerful_MaxEigenpair.pdf
 40ba1da47935ff8aeecd6388877ed115 *man/PowerfulMaxEigenpair.Rd
@@ -17,4 +17,4 @@ beb718ed47f4600f7456b423c3f1e38c *inst/doc/Powerful_MaxEigenpair.R
 4821823de89fca69a37b8caac2499098 *man/thomas.tri.sol.Rd
 bc05bb0b6f7c01db375d8d4214349a90 *man/tridiag.Rd
 6e6e945d9f2744c87df73d4dbf7df310 *vignettes/Powerful_MaxEigenpair.Rmd
-f3fa9c27c5f428879b4b0b722fe03c9b *vignettes/Powerful_MaxEigenpair.html
+d3b255bef789a15f53c70517faa7e18a *vignettes/Powerful_MaxEigenpair.html
